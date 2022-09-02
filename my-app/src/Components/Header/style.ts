@@ -1,0 +1,7 @@
+import styled from "styled-components";
+
+export const Header = styled.div`
+  padding: 20px;
+  background-color: white;
+  
+`;
